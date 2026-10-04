@@ -1,4 +1,4 @@
-\# Pizza Analytics
+# Pizza Analytics
 
 
 
@@ -12,7 +12,7 @@ Celem projektu była analiza wyników sprzedaży, identyfikacja najważniejszych
 
 
 
-\## Cel projektu
+## Cel projektu
 
 
 
@@ -38,7 +38,7 @@ W ramach projektu przeanalizowano m.in.:
 
 
 
-\## Wykorzystane technologie
+## Wykorzystane technologie
 
 
 
